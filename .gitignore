@@ -1,0 +1,17 @@
+# Java
+*.class
+*.log
+*.ctxt
+hs_err_pid*
+.recommenders
+
+# Build
+/target/
+/out/
+/bin/
+*.jar
+
+# IDEs
+/.vscode/
+/.idea/
+*.iml
